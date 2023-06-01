@@ -82,7 +82,7 @@ for k,v in Genres.items():
     with open('Genres.csv','a') as w:
         w.write(f'{k}:{int(v)}\n')
 #_____________________________________________________________________________
-def Prize():                                                                        # Directors Taht Obtained Award 3time Or More.
+def Prize():                                                                        # Directors That Obtained Award 3time Or More.
 
     Prize_Data = data.copy()                                                  
     flt = Prize_Data['Awards'] == 'Yes'
