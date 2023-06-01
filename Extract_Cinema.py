@@ -1,5 +1,3 @@
-
-
 import pandas as pd                  
 
 data = pd.read_excel('Film.xlsx')                                                # 1920_1997
