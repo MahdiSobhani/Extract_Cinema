@@ -11,7 +11,7 @@ _________________________________________
 
 4)Genres Types And Quantity its.
 
-5)Directors Taht Obtained Award 3time Or More.
+5)Directors That Obtained Award 3time Or More.
 
 6)10_Directors With Most numbre Film, Without Award.
 
